@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![Alt Text](https://media.giphy.com/media/maSFSgi6JILBu/giphy.gif)
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZycmFjc2picWtqNzZ5dXp0ZmhxOWJpbjBxaHg1Nnl1d2M3Z3BpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif)
 
 <!--
+https://media.giphy.com/media/maSFSgi6JILBu/giphy.gif
+
+
 **suraj95/suraj95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
